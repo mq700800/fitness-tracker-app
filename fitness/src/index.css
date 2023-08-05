@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.bgimg{
+  background-image: linear-gradient(rgba(87, 89, 44, 0.5), rgba(56, 66, 32, 0.5)), url('/public/img/hero-bg.jpg');
+}
+Link:hover{
+  text-decoration: none;
+}
+.about{
+  background-image: linear-gradient(rgba(32, 35, 53, 0.5), rgba(30, 36, 18, 0.5)), url('/public/img/halfimagee.jpg');
+}
+.color
+{
+  color: #ffff;
+}
+.card-styles
+{
+  border-color:#f15d44;
+  width: 18rem;
+}

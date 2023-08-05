@@ -1,0 +1,7 @@
+Muhammad Qasim (project)
+step 1 : 
+enter in BackEnd folder and open cmd in that folder and run command npm i there
+
+Step 2 :
+enter in fitness folder and open cmd in that folder and run command npm i there.
+
